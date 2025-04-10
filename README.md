@@ -83,7 +83,3 @@ torch.save(model.state_dict(), "best_fanformer.pth")
 - [FAN: Fast Attention via Positive Orthogonal Random Features](https://arxiv.org/abs/2104.09938)
 - [Transformers Library](https://github.com/huggingface/transformers)
 - [IMDb Dataset](https://huggingface.co/datasets/imdb)
-
----
-
-Let me know if you'd like a Colab badge or add example outputs/visuals to enhance the README!
